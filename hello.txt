@@ -2,3 +2,5 @@ hello world
 add from local
 add from remote
 new line
+
+new line from local modification
