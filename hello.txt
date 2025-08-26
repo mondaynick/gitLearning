@@ -4,3 +4,4 @@ add from remote
 new line
 
 new line from local modification
+new line from local test
