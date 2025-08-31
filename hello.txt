@@ -3,6 +3,8 @@ add from local
 add from remote
 new line
 
+insert from mondaynick
+
 new line from local modification
 new line from local test
 new line from another user in homeork1
